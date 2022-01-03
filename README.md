@@ -30,8 +30,6 @@ Feel free to visit [my repositories](https://github.com/thaisalmeida29?tab=repos
 
 ### <📫> How to reach me </📫>
 
-### <📫> How to reach me </📫>
-
 [![Github badge](https://img.shields.io/badge/thaisalmeida29-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaisalmeida29) [![Gmail badge](https://img.shields.io/badge/thaisalmeida.galvao@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisalmeida29@gmail.com)
 
 
