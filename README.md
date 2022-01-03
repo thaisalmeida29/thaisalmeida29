@@ -30,7 +30,7 @@ Feel free to visit [my repositories](https://github.com/thaisalmeida29?tab=repos
 
 ### <📫> How to reach me </📫>
 
-[![Github badge](https://img.shields.io/badge/thaisalmeida29-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaisalmeida29) [![Linkedin badge](https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tha%C3%ADs-almeida-16b149199/) [![Gmail badge](https://img.shields.io/badge/thaisalmeida.galvao@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisalmeida29@gmail.com) 
+[![Github badge](https://img.shields.io/badge/thaisalmeida29-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaisalmeida29) [![Linkedin badge](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tha%C3%ADs-almeida-16b149199/) [![Gmail badge](https://img.shields.io/badge/thaisalmeida.galvao@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisalmeida29@gmail.com) 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
