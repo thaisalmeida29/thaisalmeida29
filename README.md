@@ -16,7 +16,7 @@ Feel free to visit [my repositories](https://github.com/thaisalmeida29?tab=repos
 
 ### <🛠> Tech Stack </🛠>
 
-![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) 
+![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![VSCode badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GIMP badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white) ![Markdown badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -30,8 +30,12 @@ Feel free to visit [my repositories](https://github.com/thaisalmeida29?tab=repos
 
 ### <📫> How to reach me </📫>
 
-[![Github badge](https://img.shields.io/badge/thaisalmeida29-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaisalmeida29) [![Gmail badge](https://img.shields.io/badge/thaisalmeida.galvao@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaisalmeida.galvao@gmail.com)
+[![Github badge](https://img.shields.io/badge/thaisalmeida29-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaisalmeida29) [![Gmail badge](https://img.shields.io/badge/thaisalmeida.galvao@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)]
 
 ---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%230EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!)](https://git.io/typing-svg)
+
+--- 
+
+[![Likedin SVG](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/tha%C3%ADs-almeida-16b149199/) [![Gmail badge](https://img.shields.io/badge/thaisalmeida.galvao@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)]
