@@ -1,10 +1,10 @@
 # Hi there! 👋 😃
  
-*A README made with **Markdown**, [great ideas](https://github.com/thaisalmeida29/thaisalmeida29/blob/main/third-party-links.md) and ♥!*
+*A README made with **Markdown**
 
 ### <🌹> About me </🌹>
 
-My name is Helena and I'm a Brazilian **front-end developer**. I'm here on GitHub to:
+My name is Thaís Almeida and I'm a Brazilian **front-end developer**. I'm here on GitHub to:
 - Share my codes;
 - Learn more about front-end technologies;
 - Contribute to third-party projects;
