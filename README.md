@@ -38,4 +38,4 @@ Feel free to visit [my repositories](https://github.com/thaisalmeida29?tab=repos
 
 --- 
 
-[![Likedin SVG](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/tha%C3%ADs-almeida-16b149199/) [![Gmail badge](https://img.shields.io/badge/thaisalmeida.galvao@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Likedin IMG](https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw?style=for-the-badge&logo=github&logoColor=white)](https://www.linkedin.com/in/tha%C3%ADs-almeida-16b149199/)
